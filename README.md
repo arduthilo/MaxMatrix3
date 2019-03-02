@@ -52,12 +52,13 @@ Moves the content of the display one pixel in the specified direction. If the va
 
 
 Examples under File, Examples, Maxmatrix3
-Blink A point passes through in the top line from left to right.
-Fill Fills the display line by line and empties it again.
-Rotate Creates a pattern on the display and moves it.
-Counter Displays a number on the display and counts it up.
-Text Places a text on the display
-TextWithScroll Places a text on the display that scrolls.
+p01Blink A point passes through in the top line from left to right.
+p02Fill Fills the display line by line and empties it again.
+p03Rotate Creates a pattern on the display and moves it.
+p04Counter Displays a number on the display and counts it up.
+p05Text Places a text on the display.
+p06TextWithScroll Places a text on the display that scrolls.
+p07Trainer Simple trainer for multiplication.
 
 
 
@@ -115,9 +116,10 @@ Verschiebt den Inhalt des Displays um einen Pixel in die angegebene Richtung. Is
 
 
 Beispiele unter Datei, Beispiele, Maxmatrix3
-Blink	Ein Punkt läuft in der obersten Zeile von links nach rechts durch.
-Fill	Füllt das Display zeilenweise und leert es wieder.
-Rotate	Erzeugt ein Muster auf dem Display und verschiebt es.
-Counter	Zeigt eine Zahl auf dem Display an und zählt diese hoch.
-Text	Setzt einen Text auf das Display
-TextWithScroll	Setzt einen Text auf das Display, der scrollt.
+p01Blink	Ein Punkt läuft in der obersten Zeile von links nach rechts durch.
+p02Fill	Füllt das Display zeilenweise und leert es wieder.
+p03Rotate	Erzeugt ein Muster auf dem Display und verschiebt es.
+p04Counter	Zeigt eine Zahl auf dem Display an und zählt diese hoch.
+p05Text	Setzt einen Text auf das Display
+p06TextWithScroll	Setzt einen Text auf das Display, der scrollt.
+p07Trainer	Einfacher Kopfrechentrainer
